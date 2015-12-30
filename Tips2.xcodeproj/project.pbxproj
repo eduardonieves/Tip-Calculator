@@ -10,11 +10,12 @@
 		D40888071C32FCDB00425767 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40888061C32FCDB00425767 /* AppDelegate.swift */; };
 		D40888091C32FCDB00425767 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40888081C32FCDB00425767 /* ViewController.swift */; };
 		D408880C1C32FCDB00425767 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D408880A1C32FCDB00425767 /* Main.storyboard */; };
-		D408880E1C32FCDB00425767 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D408880D1C32FCDB00425767 /* Assets.xcassets */; };
 		D40888111C32FCDB00425767 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D408880F1C32FCDB00425767 /* LaunchScreen.storyboard */; };
 		D408881C1C32FCDC00425767 /* Tips2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D408881B1C32FCDC00425767 /* Tips2Tests.swift */; };
 		D40888271C32FCDC00425767 /* Tips2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40888261C32FCDC00425767 /* Tips2UITests.swift */; };
 		D40888351C32FEFB00425767 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40888341C32FEFB00425767 /* SettingsViewController.swift */; };
+		D4260C071C34772B00D45D31 /* calculator.gif in Resources */ = {isa = PBXBuildFile; fileRef = D4260C061C34772B00D45D31 /* calculator.gif */; };
+		D4260C091C34899D00D45D31 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = D4260C081C34899D00D45D31 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +40,6 @@
 		D40888061C32FCDB00425767 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D40888081C32FCDB00425767 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D408880B1C32FCDB00425767 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D408880D1C32FCDB00425767 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D40888101C32FCDB00425767 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D40888121C32FCDB00425767 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D40888171C32FCDC00425767 /* Tips2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tips2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -49,6 +49,8 @@
 		D40888261C32FCDC00425767 /* Tips2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tips2UITests.swift; sourceTree = "<group>"; };
 		D40888281C32FCDC00425767 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D40888341C32FEFB00425767 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		D4260C061C34772B00D45D31 /* calculator.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = calculator.gif; path = ../../calculator.gif; sourceTree = "<group>"; };
+		D4260C081C34899D00D45D31 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,9 +105,10 @@
 				D40888081C32FCDB00425767 /* ViewController.swift */,
 				D408880A1C32FCDB00425767 /* Main.storyboard */,
 				D40888341C32FEFB00425767 /* SettingsViewController.swift */,
-				D408880D1C32FCDB00425767 /* Assets.xcassets */,
 				D408880F1C32FCDB00425767 /* LaunchScreen.storyboard */,
 				D40888121C32FCDB00425767 /* Info.plist */,
+				D4260C061C34772B00D45D31 /* calculator.gif */,
+				D4260C081C34899D00D45D31 /* README.md */,
 			);
 			path = Tips2;
 			sourceTree = "<group>";
@@ -233,7 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D40888111C32FCDB00425767 /* LaunchScreen.storyboard in Resources */,
-				D408880E1C32FCDB00425767 /* Assets.xcassets in Resources */,
+				D4260C071C34772B00D45D31 /* calculator.gif in Resources */,
 				D408880C1C32FCDB00425767 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -261,6 +264,7 @@
 			files = (
 				D40888091C32FCDB00425767 /* ViewController.swift in Sources */,
 				D40888071C32FCDB00425767 /* AppDelegate.swift in Sources */,
+				D4260C091C34899D00D45D31 /* README.md in Sources */,
 				D40888351C32FEFB00425767 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -400,7 +404,6 @@
 		D408882C1C32FCDC00425767 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Tips2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.JesusApp.Tips2;
@@ -411,7 +414,6 @@
 		D408882D1C32FCDC00425767 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Tips2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.JesusApp.Tips2;
