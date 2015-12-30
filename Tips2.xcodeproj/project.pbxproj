@@ -15,7 +15,7 @@
 		D40888271C32FCDC00425767 /* Tips2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40888261C32FCDC00425767 /* Tips2UITests.swift */; };
 		D40888351C32FEFB00425767 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40888341C32FEFB00425767 /* SettingsViewController.swift */; };
 		D4260C071C34772B00D45D31 /* calculator.gif in Resources */ = {isa = PBXBuildFile; fileRef = D4260C061C34772B00D45D31 /* calculator.gif */; };
-		D4260C091C34899D00D45D31 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = D4260C081C34899D00D45D31 /* README.md */; };
+		D4260C0A1C349BD900D45D31 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D4260C081C34899D00D45D31 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -235,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4260C0A1C349BD900D45D31 /* README.md in Resources */,
 				D40888111C32FCDB00425767 /* LaunchScreen.storyboard in Resources */,
 				D4260C071C34772B00D45D31 /* calculator.gif in Resources */,
 				D408880C1C32FCDB00425767 /* Main.storyboard in Resources */,
@@ -264,7 +265,6 @@
 			files = (
 				D40888091C32FCDB00425767 /* ViewController.swift in Sources */,
 				D40888071C32FCDB00425767 /* AppDelegate.swift in Sources */,
-				D4260C091C34899D00D45D31 /* README.md in Sources */,
 				D40888351C32FEFB00425767 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
