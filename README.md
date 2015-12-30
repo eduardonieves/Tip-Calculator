@@ -1,4 +1,4 @@
-# Tips2
+# Tips
 
 **Tips* is a tip calculator application for iOS.
 
