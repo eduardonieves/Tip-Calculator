@@ -29,8 +29,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="yM0S1dx"><a href="//imgur.com/yM0S1dx">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<img src='http://imgur.com/gallery/xItxR/new' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/yM0S1dx.gifv' title='Tips Walkthrough#1' width='628' alt='1127' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
